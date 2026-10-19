@@ -10,6 +10,7 @@ Power Query data cleaning, star-schema data modeling, DAX measures, and dashboar
 You can see the video attached how these reports or dashboard looks like
 
 ##This video shows all the above reports and how they interact. 
+
 https://github.com/user-attachments/assets/2e54a061-191c-46ed-ab2d-2ae11af76fbc
 
 **Full assignment brief:** [docs/ASSIGNMENT.md](docs/ASSIGNMENT.md)
