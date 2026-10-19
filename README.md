@@ -8,6 +8,7 @@ Power Query data cleaning, star-schema data modeling, DAX measures, and dashboar
 ## Below link is not public
 (https://app.powerbi.com/groups/me/reports/8dc4c4b9-0f9e-44cd-aa63-3883468ca874/4b66936917b93de27603?experience=power-bi)
 You can see the video attached how these reports or dashboard looks like
+
 **Full assignment brief:** [docs/ASSIGNMENT.md](docs/ASSIGNMENT.md)
 
 ## What this project demonstrates
