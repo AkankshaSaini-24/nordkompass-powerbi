@@ -4,7 +4,10 @@ A self-built Power BI project using a realistic, deliberately messy retail sales
 for a fictional Stockholm outdoor-gear retailer. Built to practice and demonstrate
 Power Query data cleaning, star-schema data modeling, DAX measures, and dashboard design.
 
-**Live dashboard:** _add your published Power BI link here once published_
+**Live dashboard:** 
+## Below link is not public
+(https://app.powerbi.com/groups/me/reports/8dc4c4b9-0f9e-44cd-aa63-3883468ca874/4b66936917b93de27603?experience=power-bi)
+You can see the video attached how these reports or dashboard looks like
 **Full assignment brief:** [docs/ASSIGNMENT.md](docs/ASSIGNMENT.md)
 
 ## What this project demonstrates
@@ -80,3 +83,9 @@ Power BI Desktop · Power Query (M) · DAX · Star schema data modeling
 Built as part of a broader portfolio alongside a [SQL practice
 repo](#) covering the same kind of star-schema modeling in SQL — together they show the
 same data-engineering thinking applied from both the SQL/ETL side and the BI/reporting side.
+
+
+##This video shows all the above reports and how they interact. 
+https://github.com/user-attachments/assets/2e54a061-191c-46ed-ab2d-2ae11af76fbc
+
+
